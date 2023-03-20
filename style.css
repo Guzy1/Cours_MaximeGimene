@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Manrope:wght@500&family=Montserrat&family=Press+Start+2P&display=swap');
+
+H1{ text-align: center;
+    text-transform: uppercase;
+    font-family: 'Press Start 2P', sans-serif;}
+
+a{color:black;
+font-weight:bold;}
+
+em{color:#168314d6;}
+
+
+body{background-image : url(images/BG.jpg);
+
+}
+
+H1{
+   text-align: center;
+   text-transform: uppercase;
+   font-family: 'press start 2P', sans-serif;
+   background-color: black;
+   border-radius: 10px;
+   color: white;
+
+}
+a{
+  color: black;
+  font-weight: bold;
+
+}
+
+em{
+color: #168314d6;
+
+}
+body{background-image:url(images/BG.jpg);}
+h2{background:linear-gradient(blue, white) ;
+border-top-left-radius: 10px;
+border-bottom-right-radius:10px ;
+}
